@@ -9,7 +9,8 @@ body{
      background-color: rgb(0, 0, 0);
      align-items: center;
      justify-content: center;
-     display: flex ;
+     display: flex;
+    position:static;
  }
  button{
      margin: 5px ;
